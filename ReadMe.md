@@ -1,4 +1,4 @@
-# If it compiled,it conquers. 🗿
+# If it compiled, it conquers. 🗿
 
 
 ## 🌐 Socials:
