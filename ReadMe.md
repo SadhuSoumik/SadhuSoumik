@@ -94,12 +94,7 @@
 
 </div>
 
-## 🏆 GitHub Trophies
-<div align="center">
 
-[![GitHub Trophies](https://github-profile-trophy.vercel.app/?username=Sadhusoumik&theme=radical&no-frame=false&no-bg=false&margin-w=4)](https://github.com/ryo-ma/github-profile-trophy)
-
-</div>
 
 ## 💭 Daily Inspiration
 ![Daily Dev Quote](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=dark)
@@ -120,7 +115,7 @@
 
 ### 💫 Thanks for visiting! Let's connect and build something amazing together! 
 
-[![Profile Views](https://visitcount.itsvg.in/api?id=Sadhusoumik&icon=2&color=6)](https://visitcount.itsvg.in)
+[![](https://visitcount.itsvg.in/api?id=sadhusoumik&label=Profile%20Views&color=1&icon=2&pretty=false)](https://visitcount.itsvg.in)
 
 </div>
 
