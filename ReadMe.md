@@ -2,7 +2,7 @@
 
 <div align="center">
   
-  **"If it compiled, it conquers."** 🗿
+  **"If it compiles, it conquers."** 🗿
   
   *Passionate Developer | Problem Solver | Tech Enthusiast*
   
